@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1505333622 source:c:\users\israe\desktop\semestre iii\arquitectura\binario\main.cpp
+	<iostream>
+	<math.h>
+	<cstdlib>
+
